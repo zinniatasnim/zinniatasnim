@@ -15,9 +15,6 @@
 - **Currently Exploring:** Machine Learning, Deep Learning, Explainable AI, Medical Data Analysis.
 
 ---
-
-
-
 ## 🛠️ Technical Arsenal
 
 **Languages**
@@ -29,9 +26,11 @@
 **AI, ML & Data Science**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn" />
-  <br>
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
 </p>
 
 **Web Development**
