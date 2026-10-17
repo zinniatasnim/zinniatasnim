@@ -47,7 +47,7 @@
 ## 🚀 Featured Research & Projects
 
 - **Gallstone Disease Prediction:** Leakage-free, correlation-aware ensemble learning framework for non-invasive gallstone prediction. A weighted voting ensemble of Logistic Regression, Gradient Boosting and MLP reaches **92.19% accuracy**, with SHAP-based interpretability.
-- **Central Room Management System:** Console-based conference room booking, payment and billing system built in Python for JKKNIU. [View Repository](https://github.com/zinniatasnim/<repo-name>)
+- **Central Room Management System:** Console-based conference room booking, payment and billing system built in Python for JKKNIU.
 - **Biometric Attendance Management System:** IoT-based web application that automates attendance recording. Integrates biometric fingerprint hardware with a cloud-connected interface for reliable, scalable daily tracking.
 
 > 🔎 **Explore More:** Feel free to check out my [other repositories](https://github.com/zinniatasnim?tab=repositories) for more projects!
