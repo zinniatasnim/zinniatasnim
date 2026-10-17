@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Zinnia Tasnim Rifat 👋</h1>
+<h1 align="center">Hi there, I'm Zinnia Tasnim Rifat 🙂</h1>
 
 <p align="center"><b>CSE Graduate | Aspiring Researcher | AI & ML Enthusiast</b></p>
 
