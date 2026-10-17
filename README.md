@@ -16,18 +16,22 @@
 
 ---
 
+
+
 ## 🛠️ Technical Arsenal
 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,php" />
 </p>
 
 **AI, ML & Data Science**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn" />
+  <br>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 **Web Development**
@@ -39,7 +43,11 @@
 **Databases & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,vscode,figma" />
+  <br>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 </p>
 
 ---
